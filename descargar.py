@@ -20,10 +20,10 @@ if reiniciar == "s":
  os.system('python3 descargar.py')
 
 if reiniciar == "n":
- print("╔──────────────────────────────────────────────╗")
- print("|           Autor: Santi Modsz                 |")
- print("|   Github: https://github.com/AdrMXR/KitHack  |")
- print("|Gracias por utilizar esta herramienta         |")
- print("|                      <3                      |")
- print("┖──────────────────────────────────────────────┙")
+ print("╔───────────────────────────────────────────────────────────╗")
+ print("|           Autor: Santi Modsz                              |")
+ print("|   Github: https://github.com/SantiModsz/DownloadTube.git  |")
+ print("|   Gracias por utilizar esta herramienta                   |")
+ print("|                      <3                                   |")
+ print("┖───────────────────────────────────────────────────────────┙")
 
